@@ -1,0 +1,23 @@
+{
+  "name": "Test-task-from-League",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergejNovikov/Test-task-from-League.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergejNovikov/Test-task-from-League/issues"
+  },
+  "homepage": "https://github.com/SergejNovikov/Test-task-from-League#readme",
+  "devDependencies": {
+    "@wdio/cli": "^6.10.11"
+  }
+}
